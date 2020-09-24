@@ -33,4 +33,4 @@ Run xlsx_to_json.ipynb
 
 Transfer to server:
     
-    scp -r data/tiles avoin@server.avoin.org:~/data/map/hiiliporssi
+    scp -r data/hiiliporssi.json avoin@server.avoin.org:~/data/map/hiiliporssi
