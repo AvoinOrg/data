@@ -20,7 +20,7 @@ Translate coordinates:
 
 Create tiles:
 
-    tippecanoe -e data/tiles --force -zg --no-tile-compression polygons.geojson points.geojson
+    tippecanoe -e data/tiles --force -zg --no-tile-compression data/polygons.geojson data/points.geojson
 
 Transfer to server:
     
